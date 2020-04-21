@@ -1,0 +1,20 @@
+{
+  "name": "bot-geraldo",
+  "version": "1.0.0",
+  "description": "Geraldo Bot, a man of classic tastes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "https://github.com/pedropfn",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
